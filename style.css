@@ -107,7 +107,7 @@ ul {
   display: flex;
   flex-direction: column;
   max-width: 275px;
-  height: 300px;
+  max-height: 300px;
 }
 
 .flex-items > img {
